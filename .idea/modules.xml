@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/01_HelloServlet/01_HelloServlet.iml" filepath="$PROJECT_DIR$/01_HelloServlet/01_HelloServlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_HelloRequest/02_HelloRequest.iml" filepath="$PROJECT_DIR$/02_HelloRequest/02_HelloRequest.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_MappingSpec/03_MappingSpec.iml" filepath="$PROJECT_DIR$/03_MappingSpec/03_MappingSpec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_AppOne/04_AppOne.iml" filepath="$PROJECT_DIR$/04_AppOne/04_AppOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_JSON_Processing/06_JSON_Processing.iml" filepath="$PROJECT_DIR$/06_JSON_Processing/06_JSON_Processing.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaEE.iml" filepath="$PROJECT_DIR$/.idea/JavaEE.iml" />
     </modules>
   </component>
